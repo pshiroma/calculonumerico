@@ -1,0 +1,9 @@
+name: cn-environment
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - numpy
+  - matplotlib
+  - scipy
+  -ipympl
