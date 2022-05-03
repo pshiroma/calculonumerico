@@ -1,9 +1,11 @@
 name: cn-environment
 channels:
   - conda-forge
+  - anaconda
 dependencies:
   - notebook
   - numpy
   - matplotlib
   - scipy
   - ipympl
+  - mplcursors
